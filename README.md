@@ -14,7 +14,7 @@
   <a href="https://splarg.itch.io/atventurerer-ii"><img src="docs/itch/cover.jpg" alt="@venturerer II cover art" width="640"></a>
 </p>
 <p align="center">
-  <img src="docs/itch/screenshot-1.png" alt="@venturerer II screenshot" width="31%">
+  <img src="docs/itch/screenshot-1.png" alt="@venturerer II screenshot" width="70%">
 </p>
 <!-- splarg-itch-media:end -->
 
@@ -24,7 +24,6 @@ A browser dungeon crawler that combines **first-person exploration** with a **ma
 
 Explore the dungeon, encounter enemies, fight by matching attack/defence/magic/health/skill tiles, collect treasure and manage the resources needed to keep descending.
 
-**Play on itch.io:** https://splarg.itch.io/atventurerer-ii
 
 ## What it is
 
