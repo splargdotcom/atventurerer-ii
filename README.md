@@ -9,6 +9,16 @@
 </p>
 <!-- splarg-storefront:end -->
 
+<!-- splarg-itch-media:start -->
+<p align="center">
+  <a href="https://splarg.itch.io/atventurerer-ii"><img src="docs/itch/cover.jpg" alt="@venturerer II cover art" width="640"></a>
+</p>
+<p align="center">
+  <img src="docs/itch/screenshot-1.png" alt="@venturerer II screenshot" width="31%">
+</p>
+<!-- splarg-itch-media:end -->
+
+
 
 A browser dungeon crawler that combines **first-person exploration** with a **match-3 combat board**.
 
